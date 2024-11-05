@@ -47,7 +47,7 @@
        id="style3"><![CDATA[
 		@font-face {
 			font-family: Signika;
-			src: url('lcr-reader.cn/fonts/Signika-Regular.otf');
+			src: url('https://lcr-reader.cn/fonts/Signika-Regular.otf');
 		}
 	]]></style>
     <linearGradient
